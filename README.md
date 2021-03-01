@@ -7,7 +7,7 @@ The end goal of Iridium is to have a single installer that when run, will ask a 
 
 Replacing drivers, changing settings, removing programs and replacing them with a homemade program suite, configuring per options chosen by the user, altering the registry, installing a custom antivirus, process manager, latency reducer, and system stability improver.
 <h2>Why?</h2>
-I dislike the practices that microsoft has had in place, and continues to uphold with buisiness partners and customers. They have created an operating system, that as a result of propaganda has significantly more support for software as opposed to mac or linux. I also dislike the practices of certain softwares and peoples in the windows optimization sector of the internet; hiding features behind a paywall, being toxic towards people who dont understand, or asking for money to optimize your computer.   
+I dislike the practices that microsoft has had in place, and continues to uphold with buisiness partners and customers. They have created an operating system, that as a result of propaganda has significantly more support for software as opposed to mac or linux. I also dislike the practices of certain softwares and peoples in the windows optimization sector of the internet; hiding features behind a paywall, being toxic towards people who dont understand, or asking for money to optimize your computer.  
 
 The original goal in optimization was always to optimize, but also as a way to protect yourself and others from the spyware built inside of windows itself. The current practices of most do not promote these values, they focus on using their experience to generate a revenue, instead of trying to help the most people as possible.  
 
