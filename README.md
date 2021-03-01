@@ -21,4 +21,6 @@ The current schedule goes as follows:
 
 Installer infrastructure > settings management > registry management > driver management > antivirus > latency reducer > stability improver > process manager > program suite > custom drivers > custom browser
 ## What I have for you right now
-Nothing of my own. Before starting on software developement I will be creating a list of softwares and how to use them, along with; general computer use, guides on overclocking, latency reduction, general best practices, internet saftey, internet etiquette, and a devlog of everything I do towards Iridium.
+Nothing of my own. Before starting on software developement I will be creating a list of softwares and how to use them, along with; general computer use, guides on overclocking, latency reduction, general best practices, internet saftey, internet etiquette, and a devlog of everything I do towards Iridium.  
+
+I will also be posting videos, music, images, and interesting websites I find in a nondevlog.
